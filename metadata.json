@@ -1,0 +1,8 @@
+{
+  "name": "Remix Bag Company Stock Management System",
+  "description": "A comprehensive DBMS inventory, stock management, sales tracking, and low-stock alert system for bag companies and boutique retailers with MySQL relational schema and Flask API support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
